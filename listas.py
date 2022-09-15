@@ -1,3 +1,4 @@
+print("Feliz día ")
 print("Listas en Python")
 
 lista=[1,2,"Hola",10+10,True,"datos",20,40]
